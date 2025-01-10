@@ -68,7 +68,7 @@ Este repositório documenta meus estudos sobre os fundamentos de C# com base no 
   - Interface customizada com desenho de tela  
   - Menu de navegação interativo  
   - Editor de HTML com substituição de caracteres especiais  
-  - Visualização de arquivos HTML  
+
 
 ---
 
